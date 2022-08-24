@@ -13,7 +13,7 @@
 
 ## Checkout my projects 👇
 ____________________
-## TOURIST SPOTS 
+## TOURIST SPOTS - [Repo](https://github.com/lombana-camilo/tourist-spots-app)
 
 📌 Fullstack web application with authentication that enables the users to create, modify and delete their own tourist spots. Besides, all posts are displayed in a map where users can see details and leave reviews
 
@@ -29,13 +29,14 @@ ____________________
 * Cloudynary, Multer
 * MapBox
 
-<img align="left"  width= "350px" src='./utils/tourist_spots_2.png' />
-<img align="center"  width= "350px" src='./utils/tourist_spots_3.png' />
+<img align="left"  width= "350px" height="250" src='./utils/tourist_spots_2.png' />
+<img align="center"  width= "350px" height="250" src='./utils/tourist_spots_3.png' />
  <br />
 
 ____________
 
-## REAL ESTATE PROPERTIES
+## REAL ESTATE PROPERTIES - [Repo](https://github.com/lombana-camilo/real-estate-app)
+
 
 📌 Fullstack web application with authentication that enables the user to list properties for rent or sale, filter the results and create their own ads of a new property
 
@@ -49,10 +50,61 @@ ____________
 * Sequelize, Postgress
 * Axios,bcrypt
 
-<img align="left"  width= "350px" src='./utils/real_estate_2.png' />
-<img align="center"  width= "350px" src='./utils/real_estate_3.png' />
+<img align="left"  width= "350px" height="250" src='./utils/real_estate_2.png' />
+<img align="center"  width= "350px" height="250" src='./utils/real_estate_3.png' />
  <br />
 
+____________
+
+## FAV MOVIES - [Repo](https://github.com/lombana-camilo/fav-movies)
+
+
+📌 A react app that allows the user to search for movies, see their details and add or remove them to a favourite list.
+The user can create its account, log-in and have access to its own favourite list
+
+
+🚀 Technologies: 
+* Javasript
+* React, react-router
+* Tailwind
+* Redux
+* Axios,bcrypt
+
+<img align="left"  width= "350px" height="250" src='./utils/fav_movies_1.png' />
+<img align="center"  width= "350px" height="250" src='./utils/fav_movies_2.png' />
+ <br />
+____________
+
+## WEATHER APP - [Repo](https://github.com/lombana-camilo/weather-app-react)
+
+
+📌 A front-end project, where the user can look up any city and get its weather information in a card. Several cards can be  displayed and each one has a link to the hourly weather report for the day. The cards show an image according to the weather and each card can also be deleted by the user.
+
+🚀 Technologies: 
+* React
+* Javasript
+* Sass
+* Axios
+
+<img align="left"  width= "350px" height="250" src='./utils/weather_1.png' />
+<img align="center"  width= "350px" height="250" src='./utils/weather_2.png' />
+ <br />
+____________
+
+## Text Encoder/Decoder - [Repo](https://github.com/lombana-camilo/text-encoder-decoder)
+
+📌 This app is the one of the challenges that comprise the program: *ONE - Oracle Next Education + Alura*. It enables the user to encode or decode text from keyboard input or an uploaded file. The decoded text can also be downloaded
+
+🚀 Technologies: 
+* React
+* Javasript
+* Sass
+
+<img align="left"  width= "350px" height="250" src='./utils/encoder_1.png' />
+<img align="center"  width= "350px" height="250" src='./utils/encoder_2.png' />
+ <br />
+
+____________
 
 
 <h3 align="left">Languages and Tools:</h3>
