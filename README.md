@@ -69,6 +69,7 @@ The user can create its account, log-in and have access to its own favourite lis
 * Tailwind
 * Redux
 * Axios,bcrypt
+* Firebase - FireStore
 
 <img align="left"  width= "350px" height="250" src='./utils/fav_movies_1.png' />
 <img align="center"  width= "350px" height="250" src='./utils/fav_movies_2.png' />
