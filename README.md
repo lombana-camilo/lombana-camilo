@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Camilo Lombana</h1>
 <h3 align="center">A passionate full stack developer and mechanical engineer</h3>
 
-- 🌱 I’m currently learning **Docker, AWS**
+- 🌱 I’m currently learning **Java, AWS**
 
 - 📫 How to reach me **lombana.camilo@hotmail.com**
 
